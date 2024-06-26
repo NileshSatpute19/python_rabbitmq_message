@@ -29,7 +29,7 @@ Before you start, ensure you have the following installed:
 3. **Install Dependencies**:
 
     ```bash
-    pip install -r requirements.txt
+    pip install paho-mqtt pika pymongo flask
     ```
 
 ## Configuration

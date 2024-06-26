@@ -65,4 +65,4 @@ You can query the status counts by making a GET request to the `/status_count` e
 Example:
 
 ```bash
-curl "http://localhost:5000/status_count?start_time=START_TIMESTAMP&end_time=END_TIMESTAMP"
+GET "http://localhost:5000/status_count?start_time=START_TIMESTAMP&end_time=END_TIMESTAMP"
